@@ -1,7 +1,5 @@
 # **Big-O Notation Practice**
 
-In this exercise, you’ll analyze expressions and code to figure out the time complexity.
-
 ## **Step One: Simplifying Expressions**
 
 Simplify the following big O expressions as much as possible:
@@ -38,7 +36,7 @@ Simplify the following big O expressions as much as possible:
 ---
 ## **Step Two: Calculating Time Complexity**
 
-Determine the time complexities for each of the following functions. If you’re not sure what these functions do, copy and paste them into the console and experiment with different inputs!
+Determine the time complexities for each of the following functions.
 
 ```javascript
 function logUpTo(n) {
@@ -122,8 +120,6 @@ Time Complexity:
 `O(n)`
 ---
 ## **Part 3**
-
-Answer the following questions
 
 1. True or false: n^2 + n is O(n^2).
     `True - ( + n becomes insignificant)`
